@@ -1,2 +1,6 @@
-# decal
-An ics calendar file creator
+# WIP
+
+An ics calendar file creator written in Ruby
+
+
+
